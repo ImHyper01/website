@@ -1,0 +1,18 @@
+#box {
+        background-color: white;
+        width: 1330px;
+        border: 15px solid black;
+        padding: 50px;
+        margin: 20px;
+    text-align: center;
+    background-image: url(https://wallpaperaccess.com/full/1650896.jpg);
+
+  }
+
+  h1 {
+      color: white;
+  }
+
+  div {
+      background-color:white;
+  }
